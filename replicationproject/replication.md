@@ -1,23 +1,36 @@
 # Assessment 1: Replication project
 
-*Fill out the following workbook with information relevant to your project.*
 
 *Markdown reference:* [https://guides.github.com/features/mastering-markdown/](http://guides.github.com/features/mastering-markdown/)
 
 ## Replication project choice ##
-(Insert the name of the project you chose to replicate.)
+Guitar
 
 ## Related projects ##
 *Find about 6 related projects to the project you choose. A project might be related through  function, technology, materials, fabrication, concept, or code. Don't forget to place an image of the related project in the* `replicationproject` *folder and insert the filename in the appropriate places below. Copy the markdown block of code below for each project you are showing, updating the number* `1` *in the subtitle for each.*
 
 ### Related project 1 ###
-(Insert name of project)
+Midi Keypad
 
-(Insert URL to project)
+https://create.arduino.cc/projecthub/labsud/midi-keypad-c68fd2?ref=tag&ref_id=guitar&offset=5
 
-![Image](missingimage.png)
+![Image](https://hackster.imgix.net/uploads/attachments/826723/keypadmidi_hack_xNURyyKDkb.jpg?auto=compress%2Cformat&w=900&h=675&fit=min)
 
-This project is related to mine because (insert reasons here).
+This project is related to mine because it shares the same type of music components. Using technology and Ardiuno/microbit's to link traditional music and intruments into technological inputs.
+
+### Related Project 2 ###
+Midi Wood Keyboard
+
+https://create.arduino.cc/projecthub/BERRU/midi-wood-keyboard-88053e?ref=tag&ref_id=music&offset=2
+
+This second project is related in a similar way to the first. Although there are more similarities in this when comparing mine with the Keyboard. The rustic elements that go into the construction on the instruments, the cardboard in mine and the wood of the keyboard.
+
+### Related Project 3 ###
+Arduino Air Guitar
+
+https://www.instructables.com/id/How-to-build-an-Air-Guitar-with-Arduino-aka-the-A/
+
+The air guitar project looks very interesting and when comparing with my replication project there are a few similarities. FOr instance my guitar use montion sensor on board the micro kit to sence tilting of guitar and as a reaction plays the inidividual beats faster or slower. The Air guitar uses an accelerometer to trigger sound. The use of the technology to make some sort of music is very interesting.
 
 ## Reading reflections ##
 *Reflective reading is an important part of actually making your reading worthwhile. Don't just read the words to understand what they say: read to see how the ideas in the text fit with and potentially change your existing knowledge and maybe even conceptual frameworks. We assume you can basically figure out what the readings mean, but the more important process is to understand how that changes what you think, particularly in the context of your project.*
