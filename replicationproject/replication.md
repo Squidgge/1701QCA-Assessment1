@@ -14,7 +14,7 @@ Midi Keypad
 
 https://create.arduino.cc/projecthub/labsud/midi-keypad-c68fd2?ref=tag&ref_id=guitar&offset=5
 
-![Image](https://hackster.imgix.net/uploads/attachments/826723/keypadmidi_hack_xNURyyKDkb.jpg?auto=compress%2Cformat&w=900&h=675&fit=min)
+![Image](Keypad_midi.jpg)
 
 This project is related to mine because it shares the same type of music components. Using technology and Ardiuno/microbit's to link traditional music and intruments into technological inputs.
 
@@ -23,12 +23,16 @@ Midi Wood Keyboard
 
 https://create.arduino.cc/projecthub/BERRU/midi-wood-keyboard-88053e?ref=tag&ref_id=music&offset=2
 
+![Image](WoodKeyboard.jfif)
+
 This second project is related in a similar way to the first. Although there are more similarities in this when comparing mine with the Keyboard. The rustic elements that go into the construction on the instruments, the cardboard in mine and the wood of the keyboard.
 
 ### Related Project 3 ###
 Arduino Air Guitar
 
 https://www.instructables.com/id/How-to-build-an-Air-Guitar-with-Arduino-aka-the-A/
+
+![Image](AirGuitar.jpg)
 
 The air guitar project looks very interesting and when comparing with my replication project there are a few similarities. FOr instance my guitar use montion sensor on board the micro kit to sence tilting of guitar and as a reaction plays the inidividual beats faster or slower. The Air guitar uses an accelerometer to trigger sound. The use of the technology to make some sort of music is very interesting.
 
