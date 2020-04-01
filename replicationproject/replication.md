@@ -63,12 +63,12 @@ The allstar guitar project can be for anyone, anyone who is intrested in giving 
 
 ### Showcase image ###
 
-![Image](guitar-front.heic)
-![image](guitar-back.heic)
+![Image](guitar-front.HEIC)
+![image](guitar-back.HEIC)
 
 ### Additional view ###
 
-Add YT link
+https://youtu.be/uFeS8oqGr18
 
 ### Reflection ###
 
@@ -77,4 +77,4 @@ During the design aswell, cuting out the shape was horrifiying difficult. But bu
 
 I found that using the MicroBit tutorial was my main help, looking at the code that they used felt like cheating a bit , even though its part of the project. Afterwards trial and error was the main approach I took with seeing if the code would work inreality and not just in the microbit's simulator. My code ended up being a very long and tedious ordeal looking nothing like what I expected it to. 
 
-An interesting extention to the project could be the adding things like athe little waver toggle electric guitars have. Using some sort of toggle, a little gaming joystick perhaps,  to add another interesting element to tthe project.
+An interesting extention to the project could be the adding things like athe little waver toggle electric guitars have. Using some sort of toggle, a little gaming joystick perhaps,  to add another interesting element to the project.
