@@ -47,8 +47,8 @@ After this the long slog of code, oooohhhh the test and error and test and error
 The code was fairly easy, and once it got to the music part of coding, it was very fun and frustrating at the same time.
 As I tested and failed, with different sections of the code,  the end product ended up being much simpler then the actual project i was replicating. Which sucks but its what i rolled with.
 
-![Image](code-1.PNG)
-![image](code-2.PNG)
+![Image](Code-1.PNG)
+![image](Code-2.PNG)
 
 
 ## Project outcome ##
