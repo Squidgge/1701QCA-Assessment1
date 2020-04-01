@@ -35,7 +35,7 @@ The air guitar project looks very interesting and when comparing with my replica
 
 ## Interaction flowchart ##
 
-![Image](Untitled Diagram.drawio)
+![Image](flowchat_assess1.drawio)
 
 ## Process documentation
 
