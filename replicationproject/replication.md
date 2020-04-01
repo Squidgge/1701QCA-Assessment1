@@ -74,52 +74,46 @@ The air guitar project looks very interesting and when comparing with my replica
 
 ## Interaction flowchart ##
 
-![Image](<mxfile host="app.diagrams.net" modified="2020-03-31T08:23:53.057Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.149 Safari/537.36" etag="qfr2w-nE34kBkHSOXYZD" version="12.9.5" type="github"><diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">7Vpre5owFP41fmwfLqL4cba13fXZ5rauH1OIkBmIC/HCfv0SCQImIt1EbbcvSg7HXM573jcnYMe+ila3FMzC98SHuGMZ/qpjX3csq+9a/FMY0sxgu25mCCjyM5NZGMboF5RGQ1rnyIdJxZERghmaVY0eiWPosYoNUEqWVbcJwdVRZyCAimHsAaxa75HPwszqWv3CfgdREOYjm71BdicCubNcSRICnyxLJvumY19RQlh2Fa2uIBaxy+Ny/zq9x++mvds3n5Kf4Ovw7ZcP3y6yzkZP+clmCRTG7LBdS3AXAM9lvORaWZoHkJJ57EPRidGxhyGLML80+eUPyFgqAQdzRriJUBaSgMQAvyNkJv0mJGbSzRRtGPuvBLC8/YiJN81MI4SxHIO3pL/LWwmjZLrBTnSwAUI4Y/AI8RB402A90SuCCeW3YhJD0ZXPk0GupZjcTWEdNoytxCAhc+rBGj9bpjigAazrr5f5ifmV8lQidwtJBBlNuQOFGDC0qCYzkJwINn4F7vxCQq9Pg4vpQxwNBp/vHub2whtH5NN0dJGTtS4P9oeyminaXNDkTCmjtDFpFxxtOAZHwqJukiUoxnzCrIaXInTLEDE4noH1+pdcyauRLXOQL20YYJAkEqg9BHsaBgtIGVzVprS8a3el0OYbS56Ey0KmzVx7w5JEd42WIu8okf9A/poGz0wwD8y4XkM57DeUw7RaXDRmpOzpI0F8WYULmUwSyJTE2Qz454raYGN9AYKqgVe/v5xSUHsKFK8T3h5SISkxTESDcN3iX6ZhKDDRkESP82S/xlZYJjg8AhHCImPvIF5AhjygUWKAURDzhscR4XPQ0pcPieKAt3pF68s6BS66bSq0U1XorqFRaEOj0O4BFFqbRyqUL5FV/b9ky5bYSTS7va39dnsfzVgsf1UAxbcekJbcZsIh2T2Os2Oc0RPnVeRJNoM/lee6/aaUSB/xepXfIE0g/647Bz3PessxtthsHbHe0rLZPQs28zDT9PumkuKNB9G47Dt5+3pVvnudVoA6iAzs3jQb1E52K3JhOceRC6tl+teFdjf9TSUTn0T/Hdxsmhw7OWwOzo3D6mn1ASZK8HgY2FaxtBbBrcPHhB9ptkxKeSSCyisp/EreiJDvr4VAB0lVHNpCxTb3o9LVgGK1BYqpovLM66Tdj2manD5O+2yt+x+McjisU4IxULBYnwUj5FHyiMS2xBBmPM7iTQNdAuqrG0HT82BrcuN0L52K4Jh93cFsoCpOawczUw3sOdVy1slruRMXc3Y1YTbPWg9dzOXbXD6OdYxiTq3mZlk1NwGJKBrOs5Rzq6EyBxoOm8cs5Sw1jiflsHluHLZOymHHNS6Pw2LHNU/AYmsXixNMlufKYsdqwOJ8rKOw2FTfYqX/3onM2A/LcU9k6gPHWH23+LJB2X7Q2yIovFn8LydTqOLPTfbNbw==</diagram></mxfile>
-)
+![Image](Untitled Diagram.drawio)
 
 ## Process documentation
 
-*In this section, include text and images that represent the development of your project including sources you've found (URLs and written references), choices you've made, sketches you've done, iterations completed, materials you've investigated, and code samples. Use the markdown reference for help in formatting the material.*
+The process started on a lovely Sunday afternoon, I chose to do the Guitar replication project. First off i recieved a box of makeup from Mecca Cosmetics, I looked at the box and thought *hmmmm this is a good looking box*. I then traced my ukelele on the back of the box, with doing this I tried to keep the design of the box centred on the "Guitar". The design is always a big component for me. After the designing I then got more thicker cardboard to strengthen the structure of the skeleton of the guitar. 
 
-*This should have quite a lot of information!*
+![image](mid-process.png)
 
-*There will likely by a dozen or so images of the project under construction. The images should help explain why you've made the choices you've made as well as what you have done. Use the code below to include images, and copy it for each image, updating the information for each.*
+After this the long slog of code, oooohhhh the test and error and test and error... 
+The code was fairly easy, and once it got to the music part of coding, it was very fun and frustrating at the same time.
+As I tested and failed, with different sections of the code,  the end product ended up being much simpler then the actual project i was replicating. Which sucks but its what i rolled with.
 
-![Image](missingimage.png)
+![Image](code-1.png)
+![image](code-2.png)
 
-*Include screenshots of the code you have used.*
 
 ## Project outcome ##
 
-*Complete the following information.*
-
 ### Project title ###
+
+Allstar Guitar
 
 ### Project description ###
 
-*In a few sentences, describe what the project is and does, who it is for, and a typical use case.*
+The allstar guitar project can be for anyone, anyone who is intrested in giving it a chance. It would be used for fun to play around and have a laugh with. This project is to be enjoyed.
 
 ### Showcase image ###
 
-*Try to capture the image as if it were in a portfolio, sales material, or project proposal. The project isn't likely to be something that finished, but practice making images that capture the project in that style.*
-
-![Image](missingimage.png)
+![Image](guitar-front.heic)
+![image](guitar-back.heic)
 
 ### Additional view ###
 
-*Provide some other image that gives a viewer a different perspective on the project such as more about how it functions, the project in use, or something else.*
-
-![Image](missingimage.png)
+Add YT link
 
 ### Reflection ###
 
-*Describe the parts of your project you felt were most successful and the parts that could have done with improvement, whether in terms of outcome, process, or understanding.*
+Allstar Guitar I felt like the design and intial stages of coding went quite well. I particularly enjoyed coding the the tones to come out as Allstar by Smashmouth. I used a piano tutorial to help me transfer what chords would work in a string to make the first verse. I played around with beat times and rests, this part was one of my favourite parts of the assessment. 
+During the design aswell, cuting out the shape was horrifiying difficult. But building and connecting all the bits and the wirnig together and crappily mounting it on the back of the guitar was fun and quite rewarding when I finally got it to work. It's weaker points came in the final parts of coding, for example the on/off button that is in the main project. I couldn't get that to work along with the rest of the project, so I ended up cutting it out.
 
+I found that using the MicroBit tutorial was my main help, looking at the code that they used felt like cheating a bit , even though its part of the project. Afterwards trial and error was the main approach I took with seeing if the code would work inreality and not just in the microbit's simulator. My code ended up being a very long and tedious ordeal looking nothing like what I expected it to. 
 
-*What techniques, approaches, skills, or information did you find useful from other sources (such as the related projects you identified earlier)?*
-
-
-*What ideas have you read, heard, or seen that informed your thinking on this project? (Provide references.)*
-
-
-*What might be an interesting extension of this project? In what other contexts might this project be used?*
+An interesting extention to the project could be the adding things like athe little waver toggle electric guitars have. Using some sort of toggle, a little gaming joystick perhaps,  to add another interesting element to tthe project.
