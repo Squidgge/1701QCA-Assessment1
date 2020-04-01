@@ -41,14 +41,14 @@ The air guitar project looks very interesting and when comparing with my replica
 
 The process started on a lovely Sunday afternoon, I chose to do the Guitar replication project. First off i recieved a box of makeup from Mecca Cosmetics, I looked at the box and thought *hmmmm this is a good looking box*. I then traced my ukelele on the back of the box, with doing this I tried to keep the design of the box centred on the "Guitar". The design is always a big component for me. After the designing I then got more thicker cardboard to strengthen the structure of the skeleton of the guitar. 
 
-![image](mid-process.png)
+![image](mid-process.PNG)
 
 After this the long slog of code, oooohhhh the test and error and test and error... 
 The code was fairly easy, and once it got to the music part of coding, it was very fun and frustrating at the same time.
 As I tested and failed, with different sections of the code,  the end product ended up being much simpler then the actual project i was replicating. Which sucks but its what i rolled with.
 
-![Image](code-1.png)
-![image](code-2.png)
+![Image](code-1.PNG)
+![image](code-2.PNG)
 
 
 ## Project outcome ##
