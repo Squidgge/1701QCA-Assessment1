@@ -36,41 +36,6 @@ https://www.instructables.com/id/How-to-build-an-Air-Guitar-with-Arduino-aka-the
 
 The air guitar project looks very interesting and when comparing with my replication project there are a few similarities. FOr instance my guitar use montion sensor on board the micro kit to sence tilting of guitar and as a reaction plays the inidividual beats faster or slower. The Air guitar uses an accelerometer to trigger sound. The use of the technology to make some sort of music is very interesting.
 
-## Reading reflections ##
-*Reflective reading is an important part of actually making your reading worthwhile. Don't just read the words to understand what they say: read to see how the ideas in the text fit with and potentially change your existing knowledge and maybe even conceptual frameworks. We assume you can basically figure out what the readings mean, but the more important process is to understand how that changes what you think, particularly in the context of your project.*
-
-*For each of the assigned readings, answer the questions below.*
-
-### Reading: Don Norman, The Design of Everyday Things, Chapter 1 (The Psychopathology of Everyday Things) ###
-
-*What I thought before: Describe something that you thought or believed before you read the source that was challenged by the reading.*
-
-*What I learned: Describe what you now know or believe as a result of the reading. Don't just describe the reading: write about what changed in YOUR knowledge.*
-
-*What I would like to know more about: Describe or write a question about something that you would be interested in knowing more about.*
-
-*How this relates to the project I am working on: Describe the connection between the ideas in the reading and one of your current projects or how ideas in the reading could be used to improve your project.*
-
-### Reading: Chapter 1 of Dan Saffer, Microinteractions: Designing with Details, Chapter 1 ###
-
-*What I thought before: Describe something that you thought or believed before you read the source that was challenged by the reading.*
-
-*What I learned: Describe what you now know or believe as a result of the reading. Don't just describe the reading: write about what changed in YOUR knowledge.*
-
-*What I would like to know more about: Describe or write a question about something that you would be interested in knowing more about.*
-
-*How this relates to the project I am working on: Describe the connection between the ideas in the reading and one of your current projects or how ideas in the reading could be used to improve your project.*
-
-### Reading: Scott Sullivan, Prototyping Interactive Objects ###
-
-*What I thought before: Describe something that you thought or believed before you read the source that was challenged by the reading.*
-
-*What I learned: Describe what you now know or believe as a result of the reading. Don't just describe the reading: write about what changed in YOUR knowledge.*
-
-*What I would like to know more about: Describe or write a question about something that you would be interested in knowing more about.*
-
-*How this relates to the project I am working on: Describe the connection between the ideas in the reading and one of your current projects or how ideas in the reading could be used to improve your project.*
-
 
 ## Interaction flowchart ##
 
