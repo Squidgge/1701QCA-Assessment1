@@ -13,7 +13,7 @@ Say "Hello"to the BBC
 #### Photo of completed project ####
 *In the code below, replace `missingimage.png` with the name of the image, which should be in the `kitexperiments` folder.*
 
-![Image](missingimage.png)
+![Image](IMG_0393.HEIC)
 
 (Microbit set up on with breadboard, showing result of button A)
 
@@ -30,7 +30,7 @@ Light Sensor and Ananlog Inputs
 #### Photo of completed project ####
 
 
-![Image](missingimage.png)
+![Image](IMG_0395.HEIC)
 
 (Microbit and breadboard set up to sense light, and give feedback)
 
@@ -42,11 +42,11 @@ This experiment could be the basis of a real world application such as automated
 
 ### Experiment name ###
 
-Transistor to drive terminal connector
+Accelerometer to drive motor
 
 #### Photo of completed project ####
 
-![Image](missingimage.png)
+![Image](IMG_0396.HEIC)
 
 (Microbit and Breadboard used to run motor through different components)
 
